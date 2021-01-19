@@ -68,4 +68,4 @@ class TestVarasto(unittest.TestCase):
 
     def test_tulosta_varasto(self):
         s = str(self.varasto)
-        self.assertEqual(s, "saldo = 1, vielä tilaa 10")
+        self.assertEqual(s, "saldo = 0, vielä tilaa 10")
