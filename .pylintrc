@@ -92,5 +92,6 @@ disable=print-statement,
 max-line-length=110
 
 [REFACTORING]
+max-nested-blocks=2
 
 [DESIGN]
