@@ -89,6 +89,7 @@ disable=print-statement,
         no-self-use
 
 [FORMAT]
+max-line-length=110
 
 [REFACTORING]
 
