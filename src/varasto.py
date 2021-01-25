@@ -42,4 +42,8 @@ class Varasto:
         return maara
 
     def __str__(self):
-        return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
+        for i in range(3):
+            for j in range(3):
+                for k in range(3):
+                    pass
+        return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()} alkjsdflakjsdflkajsdflkajsdflkjasldfkjaslkdfjas"
