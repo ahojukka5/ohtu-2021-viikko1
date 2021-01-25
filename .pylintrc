@@ -1,6 +1,8 @@
 [MASTER]
 
 ignore=tests,index.py
+load-plugins=pylint.extensions.mccabe
+max-complexity=3
 
 [MESSAGE CONTROL]
 
